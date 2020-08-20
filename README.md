@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-black?logo=markdown)](http://commonmark.org)
+
 ### I found the special secret repo
